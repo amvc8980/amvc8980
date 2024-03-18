@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Phyton and R...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vargasam@mail.uc.edu
-- 😄 Pronouns: 
+- 😄 Pround Colombian
   
 <!---
 amvc8980/amvc8980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
